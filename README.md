@@ -1,4 +1,3 @@
-```markdown
 # 🌪️ Streamlit Spiral Visualization App
 
 A interactive web application that generates beautiful spiral visualizations using Streamlit, Altair, and Python.
